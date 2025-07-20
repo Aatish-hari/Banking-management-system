@@ -1,0 +1,2 @@
+6055	fox	fox@gmail.com	9000
+5037	dog	dog@gmail.com	10000
